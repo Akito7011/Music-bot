@@ -7,5 +7,5 @@ This program changes the user's IP address.
 4. Aditya Binukumar (persivefire@gmail.com)
 ## **INSTRUCTIONS FOR USE**
 1. Prerequisites
-   1. Node [x]("https://nodejs.org/en/")
-   2. FFMPEG [x]("https://www.ffmpeg.org/")
+   1. [link](doc:Node#https://nodejs.org/en/)
+   2. [link]("https://www.ffmpeg.org/")
