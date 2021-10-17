@@ -18,8 +18,8 @@ This program changes the user's IP address.
 5. Set your fav Prefix
 6. save the code and run it from vs or use hosting service
 7. Enjoy
-# **COMMAND**
+## **COMMAND**
 `prefix(play/stop/skip)`
-# **DISCLAIMER**
+## **DISCLAIMER**
 this is a basic bot , will improve it futher 
 will be adding a hosting service for it
